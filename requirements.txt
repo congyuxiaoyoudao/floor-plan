@@ -1,0 +1,6 @@
+torch==2.14.0
+wandb==0.29.0
+numpy==2.4.6
+einops
+jaxtyping
+matplotlib
